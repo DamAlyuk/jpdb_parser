@@ -4,6 +4,7 @@ This program pulls words from jpdb.io and saves them into a JSON file. The site 
 
 Example of the saved data:
 
+```json
 {
   "id": 1,
   "word": "まったい",
@@ -26,3 +27,4 @@ Example of the saved data:
     "books": "1000"
   }
 }
+```
